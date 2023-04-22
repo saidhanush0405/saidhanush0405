@@ -1,1 +1,2 @@
-Hi this is git session
+Hi This is git session.
+add second line.
